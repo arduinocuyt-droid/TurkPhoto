@@ -1,1 +1,1 @@
-
+> ℹ️ **Güvenlik Notu:** TurkPhoto v2.0 (`main.exe`, 47.37 MB), VirusTotal üzerinde taranmış ve 68 güvenlik firmasından **66 tanesi tarafından %100 temiz** olarak doğrulanmıştır (Microsoft Defender, Kaspersky, BitDefender, Avast, ESET vb.). PyInstaller paketleme mimarisi nedeniyle yalnızca 2 firma tarafından verilen uyarılar tamamen yanlış alarmdır (False Positive). Dosyayı güvenle çalıştırabilirsiniz.
